@@ -1,0 +1,1 @@
+This repo is going to hold all my football/soccer data work! I've started exploring doing analytics for football teams. I am starting with the women's teams at the collegiate level in the Big Sky Conference. 
